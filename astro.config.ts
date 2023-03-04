@@ -13,6 +13,7 @@ export default defineConfig({
       presets: [
         presetAttributify(),
         presetUno(),
+        // @ts-ignore
         presetTypography(),
       ]
     }),

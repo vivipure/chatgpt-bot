@@ -4,6 +4,6 @@
     "jsx": "preserve",
     "jsxImportSource": "solid-js",
     "strict": false,
-    "esModuleInterop": true
+    "esModuleInterop": true,
   }
 }
