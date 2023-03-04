@@ -1,5 +1,6 @@
 import type { Accessor } from 'solid-js'
 import type { ChatMessage } from '../types'
+// @ts-ignore
 import MarkdownIt from 'markdown-it'
 // @ts-ignore
 import mdKatex from 'markdown-it-katex'

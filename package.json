@@ -1,5 +1,5 @@
 {
-  "name": "novel-gpt",
+  "name": "chatgpt-turbo-bot",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -27,6 +27,7 @@
     "@unocss/preset-attributify": "^0.50.1",
     "@unocss/preset-typography": "^0.50.3",
     "punycode": "^2.3.0",
+    "typescript": "^4.8.4",
     "unocss": "^0.50.1"
   }
 }

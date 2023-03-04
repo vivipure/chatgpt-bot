@@ -1,6 +1,10 @@
-# ChatGPT-API Demo
+# ChatGPT Turbo Bot
 
 A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat).
+
+## TODO
+- [ ] integration chatgpt api,optimize token count
+- [ ] support storage chats
 
 ## Run Locally
 

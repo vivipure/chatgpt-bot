@@ -3,6 +3,7 @@
   "compilerOptions": {
     "jsx": "preserve",
     "jsxImportSource": "solid-js",
-    "strict": false
+    "strict": false,
+    "esModuleInterop": true
   }
 }
